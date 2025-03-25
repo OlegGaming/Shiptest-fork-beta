@@ -1,0 +1,8 @@
+#ifndef MODPACK_CELADON_MY_UI_BLOCK
+#define MODPACK_CELADON_MY_UI_BLOCK
+
+#include "_my_ui_block.dm"
+
+#include "code/myui.dm"
+
+#endif

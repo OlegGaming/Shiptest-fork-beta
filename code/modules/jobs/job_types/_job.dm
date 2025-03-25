@@ -34,6 +34,8 @@
 
 	name = new_name
 	outfit = new_outfit
+	// if (!new_outfit.jobtype)
+	// 	new_outfit.jobtype = ""
 
 	var/datum/job/outfit_job = new new_outfit.jobtype
 	if(outfit_job)

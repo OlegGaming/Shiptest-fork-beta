@@ -72,6 +72,7 @@
 #include "rus_labeler/_rus_labeler.dme"
 #include "helmet_seclite/_helmet_seclite.dme"
 #include "vending_cash/_vending_cash.dme"
+#include "my_ui_block/_my_ui_block.dme"
 
 // --- MOBS --- //
 #include "drakeborgs/_drakeborgs.dme"
