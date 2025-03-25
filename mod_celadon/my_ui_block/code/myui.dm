@@ -17,6 +17,10 @@
 		icon_state = "pod_g"
 	return ..()
 
+/obj/machinery/myui/process()
+	. = ..()
+
+
 /*##################
 ##### UI PROCS #####
 */
